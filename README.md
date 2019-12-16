@@ -47,7 +47,9 @@ If you have a GPU you can run the script. If you don’t you might have to retra
 **Challenge 3:** There was a mislabeled image.\
 **Solution 3:** A problem was that someone mislabeled an image which resulted in errors and the record files not being created correctly. I had to go back and edit the xml file and csv files.\
 **Challenge 4:** The webcam script would only detect from A-F.\
-**Solution 4:** We were able to solve this by changing one line of code in the script that would only detect up to 6 classes. We changed it accordingly to 26.
+**Solution 4:** We were able to solve this by changing one line of code in the script that would only detect up to 6 classes. We changed it accordingly to 26.\
+**Challenge 5:** Some files were too big to upload to github.\
+**Solution 5:** We had to delete some checkpoint files because they were over the upload limit. This shouldn't cause any issues.
 
 **References:**\
 [Youtube Tutorial](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)\
