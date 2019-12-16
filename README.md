@@ -4,8 +4,8 @@ Project Description: Have you ever met someone who was deaf and you wanted to ha
 **DEMO:**\
 https://streamable.com/r5tql
 
-**Documentation:**\	
-	** PLEASE NOTE THAT THIS IS FOR WINDOWS 10 ** \
+**Documentation:**	
+	**PLEASE NOTE THAT THIS IS FOR WINDOWS 10** 
 	
 **Tools:**\
 Anaconda\
@@ -20,14 +20,14 @@ Contextlib2\
 Jupyter\
 Matplotlib\
 Pandas\
-OpenCV-python\
+OpenCV-python
 
 **How to Run:**\
 After downloading the repo and all the required tools, cd into the object detection folder and run the cmd line “idle”. \
 Click on file > open > object_detection_webcam.py\
 It will open a new window. Hit run > run module.\
 Start holding up American Sign Language\
-You might need a GPU (I had a Nvidia GTX 1060)\
+You might need a GPU (I had a Nvidia GTX 1060)
 
 
 **Installation Instructions:**	\
@@ -37,7 +37,7 @@ Install Tensorflow-gpu v1.13\
 Downgrade GPU graphics drivers to 4.17 (For Nvidia GTX 1060 at least)\
 Run this commmand: “set PYTHONPATH=C:\tensorflow2\models;C:\tensorflow2\models\research;C:\tensorflow2\models\research\slim”\
 If you have a GPU you can run the script. If you don’t you might have to retrain using the SSD-MobileNet Model.\
-**Please note that you might need to move the asl tensorflow2 folder out into your C drive. If you don’t you'll need to edit multiple lines of code and change some commands**\
+**Please note that you might need to move the asl tensorflow2 folder out into your C drive. If you don’t you'll need to edit multiple lines of code and change some commands**
 
 **Challenges and Solutions:**\
 **Challenge 1:** The checkpoints wouldn’t save while training, and would hang. The GPU would drop to 0% utilization and it took an average of 2 seconds per step.\
@@ -47,9 +47,9 @@ If you have a GPU you can run the script. If you don’t you might have to retra
 **Challenge 3:** There was a mislabeled image.\
 **Solution 3:** A problem was that someone mislabeled an image which resulted in errors and the record files not being created correctly. I had to go back and edit the xml file and csv files.\
 **Challenge 4:** The webcam script would only detect from A-F.\
-**Solution 4:** We were able to solve this by changing one line of code in the script that would only detect up to 6 classes. We changed it accordingly to 26.\
+**Solution 4:** We were able to solve this by changing one line of code in the script that would only detect up to 6 classes. We changed it accordingly to 26.
 
 **References:**\
 [Youtube Tutorial](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)\
-[Tensorflow Issues Board](https://github.com/tensorflow/models/issues)\
+[Tensorflow Issues Board](https://github.com/tensorflow/models/issues)
 
