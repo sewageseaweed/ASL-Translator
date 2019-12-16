@@ -8,7 +8,7 @@ https://streamable.com/r5tql
 	** PLEASE NOTE THAT THIS IS FOR WINDOWS 10 ** 
 	
 **Tools:**
-Anaconda
+Anaconda\
 Tensorflow-GPU 1.13
 CUDA
 cuDNN
