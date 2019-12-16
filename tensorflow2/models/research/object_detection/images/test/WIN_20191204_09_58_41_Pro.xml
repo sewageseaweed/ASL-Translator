@@ -1,0 +1,26 @@
+<annotation>
+	<folder>testing</folder>
+	<filename>WIN_20191204_09_58_41_Pro.jpg</filename>
+	<path>C:\Users\Roy\Desktop\labelImg-master\testing\WIN_20191204_09_58_41_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>c</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>397</xmin>
+			<ymin>94</ymin>
+			<xmax>923</xmax>
+			<ymax>605</ymax>
+		</bndbox>
+	</object>
+</annotation>

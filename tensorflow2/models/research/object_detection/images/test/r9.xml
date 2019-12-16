@@ -1,0 +1,26 @@
+<annotation>
+	<folder>testing</folder>
+	<filename>PHOTO ON 12-3-19 AT 9.17 PM #5.jpeg</filename>
+	<path>/Users/noahahmed/dev/cst205/project/testing/PHOTO ON 12-3-19 AT 9.17 PM #5.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>r</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>20</ymin>
+			<xmax>517</xmax>
+			<ymax>616</ymax>
+		</bndbox>
+	</object>
+</annotation>

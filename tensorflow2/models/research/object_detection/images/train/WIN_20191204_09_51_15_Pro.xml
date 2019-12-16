@@ -1,0 +1,26 @@
+<annotation>
+	<folder>A</folder>
+	<filename>WIN_20191204_09_51_15_Pro.jpg</filename>
+	<path>C:\Users\Roy\Desktop\labelImg-master\Camera Roll\A\WIN_20191204_09_51_15_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>41</ymin>
+			<xmax>956</xmax>
+			<ymax>702</ymax>
+		</bndbox>
+	</object>
+</annotation>

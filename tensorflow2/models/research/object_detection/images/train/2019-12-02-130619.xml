@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training</folder>
+	<filename>2019-12-02-130619.jpg</filename>
+	<path>C:\Users\Clyde\Desktop\images\training\2019-12-02-130619.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>n</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>81</ymin>
+			<xmax>345</xmax>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+</annotation>

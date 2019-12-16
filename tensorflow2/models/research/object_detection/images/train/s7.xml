@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training</folder>
+	<filename>PHOTO ON 12-4-19 AT 1.30 PM #9.jpeg</filename>
+	<path>/Users/noahahmed/dev/cst205/project/training/PHOTO ON 12-4-19 AT 1.30 PM #9.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>s</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>282</ymin>
+			<xmax>566</xmax>
+			<ymax>537</ymax>
+		</bndbox>
+	</object>
+</annotation>

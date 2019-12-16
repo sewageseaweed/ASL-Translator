@@ -1,0 +1,26 @@
+<annotation>
+	<folder>testing</folder>
+	<filename>WIN_20191210_10_18_39_Pro.jpg</filename>
+	<path>C:\Users\Clyde\Desktop\images\testing\WIN_20191210_10_18_39_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>i</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>396</xmin>
+			<ymin>240</ymin>
+			<xmax>549</xmax>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+</annotation>

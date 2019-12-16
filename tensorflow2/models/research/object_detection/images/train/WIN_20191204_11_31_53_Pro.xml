@@ -1,0 +1,26 @@
+<annotation>
+	<folder>N</folder>
+	<filename>WIN_20191204_11_31_53_Pro.jpg</filename>
+	<path>C:\Users\Roy\Desktop\labelImg-master\Camera Roll\N\WIN_20191204_11_31_53_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>n</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>42</ymin>
+			<xmax>777</xmax>
+			<ymax>654</ymax>
+		</bndbox>
+	</object>
+</annotation>
