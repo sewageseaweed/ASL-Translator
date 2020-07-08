@@ -4,7 +4,10 @@ Project Description: Have you ever met someone who was deaf and you wanted to ha
 **DEMO: (Currently down, working on reuploading)**\
 https://streamable.com/r5tql
 
-![Letter A](https://i.imgur.com/tkyWnSL.png)
+**Examples: **\
+![Letter B](https://i.imgur.com/tkyWnSL.png)
+![Letter I](https://i.imgur.com/O1P2jP3.png)
+![Letter J and R](https://i.imgur.com/KAxwlLc.png)
 
 
 **Documentation:**	
