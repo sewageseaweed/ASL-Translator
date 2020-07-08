@@ -1,8 +1,11 @@
 # ASL-Translator
 Project Description: Have you ever met someone who was deaf and you wanted to have a conversation with them? Well look no further. With this American Sign Language Translator, you will be able to hold a simple conversation with them. This program will be able to classify and display the  American Sign Language on the screen from A-Z. 
 
-**DEMO:**\
+**DEMO: (Currently down, working on reuploading)**\
 https://streamable.com/r5tql
+
+![Letter A](https://i.imgur.com/tkyWnSL.png)
+
 
 **Documentation:**	
 	**PLEASE NOTE THAT THIS IS FOR WINDOWS 10** 
